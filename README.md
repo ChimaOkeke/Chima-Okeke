@@ -16,7 +16,12 @@ My career has focused on working with cross-functional teams, supporting Agile p
 - **Data Analytics**: SQL | Power BI | Microsoft Excel | Databricks | Tableau  
 - **Documentation & Visual Tools**: Miro | Visio | Lucidchart | Confluence | JIRA  
 - **Cloud & Governance**: Microsoft Azure | Microsoft Purview  
-- **Soft Skills**: Problem Solving | Team Leadership | Mentoring | Communication  
+- **Soft Skills**: Problem Solving | Team Leadership | Mentoring | Communication
+
+- Projects
+
+SQL/POWER PROJECTS
+1. Beverage Data
 
 ## 🎓 Education & Certifications
 

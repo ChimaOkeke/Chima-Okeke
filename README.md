@@ -18,4 +18,38 @@ My career has focused on working with cross-functional teams, supporting Agile p
 - **Cloud & Governance**: Microsoft Azure | Microsoft Purview  
 - **Soft Skills**: Problem Solving | Team Leadership | Mentoring | Communication  
 
+## 🎓 Education & Certifications
+
+- 🎓 MBA (Merit), University of Hertfordshire, UK – 2024  
+- 🎓 MSc, Manpower Training & Development – 2015  
+- 🎓 B.Ed, Adult Education – 2010  
+- 📜 Business Analyst – 1202 LTD  
+- 📜 PMI Enterprise Agile – 2024  
+- 📜 Power BI & Data Tools – Ongoing learning through LinkedIn Learning & IBM DataTrack  
+
+---
+
+## 🚀 Career Summary
+
+- **Business Analyst** – 1202 LTD (UK): Wrote/reviewed API specs, led Agile sprints, created Power BI dashboards  
+- **Performance Analyst** – Softclue Global: Azure AI automation, dashboard development, data governance  
+- **Data Quality Lead** – Nekris Nigeria: Reduced data errors 30%, mentored analysts, led QA & compliance  
+
+---
+
+## 🌱 What I'm Working On
+
+- Publishing more Power BI & SQL projects  
+- Writing tutorials on **Agile documentation** and **data storytelling**  
+- Creating GitHub repositories showcasing my end-to-end analytics process  
+
+---
+
+## 📬 Let’s Connect!
+
+🔗 [LinkedIn](https://linkedin.com/in/chima-okeke-50832647)  
+📧 Email: chimex2000us@yahoo.com  
+💬 Open to collaboration, mentorship, and exciting data opportunities!
+
+> *“I believe data is more than numbers—it’s the blueprint of decisions that shape the future.”*
 ---

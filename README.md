@@ -18,10 +18,8 @@ My career has focused on working with cross-functional teams, supporting Agile p
 - **Cloud & Governance**: Microsoft Azure | Microsoft Purview  
 - **Soft Skills**: Problem Solving | Team Leadership | Mentoring | Communication
 
-- Projects
 
-SQL/POWER PROJECTS
-1. Beverage Data
+  PROJECTS
 
 ## 🎓 Education & Certifications
 

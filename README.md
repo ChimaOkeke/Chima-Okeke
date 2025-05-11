@@ -27,7 +27,10 @@ My career has focused on working with cross-functional teams, supporting Agile p
 - 🎓 MSc, Manpower Training & Development – 2015  
 - 🎓 B.Ed, Adult Education – 2010  
 - 📜 Business Analyst – 1202 LTD  
-- 📜 PMI Enterprise Agile – 2024  
+- 📜 [PMI Enterprise Agile](https://lnkd.in/eKEzWY47)
+- 📜 [Project Management Re-invented](https://www.linkedin.com/learning/certificates/60de671b383cd3ad53589cfcf25b1291c3872c1067b7131cf08835f616fccd2c)
+- 📜 [Human Resource](https://www.elearningcollege.com)
+- 📜 [Risk Management](https://www.elearningcollege.com)
 - 📜 Power BI & Data Tools – Ongoing learning through LinkedIn Learning & IBM DataTrack  
 
 ---

@@ -20,6 +20,7 @@ My career has focused on working with cross-functional teams, supporting Agile p
 
 
   PROJECTS
+  
   [BeverageSale](https://github.com/ChimaOkeke/BeverageSales)
 
 ## 🎓 Education & Certifications

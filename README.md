@@ -17,6 +17,7 @@ My career has focused on working with cross-functional teams, supporting Agile p
 - **Documentation & Visual Tools**: Miro | Visio | Lucidchart | Confluence | JIRA  
 - **Cloud & Governance**: Microsoft Azure | Microsoft Purview  
 - **Soft Skills**: Problem Solving | Team Leadership | Mentoring | Communication
+- 
 
 
   PROJECTS

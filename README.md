@@ -25,6 +25,7 @@ My career has focused on working with cross-functional teams, supporting Agile p
  1.  [BeverageSale](https://github.com/ChimaOkeke/BeverageSales)
   
   2. [Adventure works Project chima](https://github.com/ChimaOkeke/Adventure-works-project-Chima-)
+  3. [Precious Metals Analysis](https://github.com/ChimaOkeke/Precious-Metals-Data-Analyst)
 
 ## 🎓 Education & Certifications
 

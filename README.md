@@ -63,7 +63,7 @@ My career has focused on working with cross-functional teams, supporting Agile p
 🔗 [LinkedIn](https://linkedin.com/in/chima-okeke-50832647)  
 📧 [Email](chimex2000us@yahoo.com) 
 
-📄  [CV](https://1drv.ms/b/c/762374d343de24ab/EZLMUbEsfT1PgkSttcFrdH0B-2nzkdKQaqhSuohi_o7J_w?e=IHAMaK)   
+📄  [CV](file:///C:/Users/Administrator/Downloads/Chima%20Okeke%20CV%201211%205.pdf)   
 💬 Open to collaboration, mentorship, and exciting data opportunities!
 
 > *“I believe data is more than numbers—it’s the blueprint of decisions that shape the future.”*

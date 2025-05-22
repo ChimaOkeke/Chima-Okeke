@@ -29,6 +29,7 @@ My career has focused on working with cross-functional teams, supporting Agile p
   4. [Billionaires Data Analysis](https://github.com/ChimaOkeke/Billionaires-Data-Analysis)
   5. [Call Centre Dashboard Analysis](https://github.com/ChimaOkeke/Call-Centre-Dashboard-Analysis)
   6. [HR Analysis Dashboard](https://github.com/ChimaOkeke/HR-Analysis-Dashboard)
+  7. [Tokyo Olympic 2020 Analysis](https://github.com/ChimaOkeke/Tokyo-Olympic-2020-Analysis)
 
 ## 🎓 Education & Certifications
 
